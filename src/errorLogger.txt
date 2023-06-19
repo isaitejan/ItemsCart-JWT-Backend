@@ -1,0 +1,11 @@
+ReferenceError: res is not defined
+    at D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\src\routes\user-router.js:7:5
+    at Layer.handle [as handle_request] (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Workspace\LinkedIn\ReactJS Essentials\Ex_Files_React_js_EssT\JWT\jwt-implementation-back-end\node_modules\express\lib\router\index.js:47:12)
